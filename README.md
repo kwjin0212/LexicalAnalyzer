@@ -1,5 +1,6 @@
 # LexicalAnalyzer
 This is a part of Compiler for computing language C Minus.
+
 SPECIFICATIONS: This project is to use the grammar definition in the appendix of your text to guide the construction of a lexical analyzer.  The lexical analyzer should return tokens as described. Keep  in mind these tokens will serve as the input to the parser. You must enhance the definitions by adding a keyword "float" as a data type to the material on page 493 and beyond. Specifically, rule 5 on page 492 should state 
     type-specifier -> int | void | float 
 and any other modifications necessary must be included.  
